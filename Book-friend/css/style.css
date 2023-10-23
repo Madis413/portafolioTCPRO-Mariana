@@ -1,0 +1,47 @@
+/* Cambiar el background de la página */
+body {
+    /* color de fondo */
+    background-color: #080707;
+    /* color de texto */
+    color:#FDFEFE;
+    /* fuente del texto */
+    font-family:Arial, Helvetica, sans-serif;
+    /* borde gráfico : ancho estilo color  */
+   /* border: 20px ridge gray;*/
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+h3 {
+    color: #FBFCFC;
+}
+
+img{
+    /*width- ancho del objeto */
+    width: 30%;
+     
+}
+img {
+    /* width - ancho del objeto y height - altura del objeto */
+    width: 20%;
+}
+
+/* CLASES (class) siempre llevan . antes del nombre */
+/*.real-books{
+    width: 100px;
+}*/
+
+/*.kirby-ancla{
+    width: 300px;
+    border-radius: 10px;
+}*/
+
+/* selector{
+    propiedad: valor;
+    propiedad: valor;
+    ....
+    }
+    */
